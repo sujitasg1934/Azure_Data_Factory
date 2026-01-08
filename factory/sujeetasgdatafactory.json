@@ -1,0 +1,9 @@
+{
+	"name": "sujeetasgdatafactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6b12370-607e-41ce-9d37-9bbde480d764",
+		"tenantId": "a057e007-4798-4a3b-a986-1d6252b480a1"
+	}
+}
